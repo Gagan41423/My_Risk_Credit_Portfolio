@@ -1,2 +1,2 @@
 # My_Risk_Credit_Portfolio
-In this project we Build a complete credit risk model and decision based on it from scratch using python and SQL Data have almost over half a million rows..
+In this project we Build a complete credit risk model and decision based on it from scratch using python and SQL Data have almost over half a million rows for which we have to preprocess and clean it into a paraquet because git can't take 300mb we uploaded direct paraquet files after cleaning and preprocessing rows and columns and load in there for our furthur analysis which each stage we make it more clean shown as v1, v2 Parquet files.
