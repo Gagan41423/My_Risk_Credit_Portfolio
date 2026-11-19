@@ -1,3 +1,5 @@
 # My_Risk_Credit_Portfolio
 In this project we Build a complete credit risk model and decision based on it from scratch using python and SQL Data have almost over half a million rows for Taken from Kaggle Lending club loan dataset 2008 to 2015 which we have to preprocess and clean it into a paraquet because git can't take 300mb file we uploaded direct paraquet files after cleaning and preprocessing rows and columns and load in there for our further analysis which each stage we make it more clean shown as v1, v2 Parquet files.
 Then we use that files which help us to build model and do in depth analysis from basic to advance for credit risk with woe, iv, AUC, gini and later for scroring each variable and give a final decision based on our model prediction.
+
+"RBI publishes macro and sector-level statistics, whereas training a credit risk model requires anonymized loan-level microdata—which is restricted in India due to borrower privacy and RBI/CIC data-sharing regulations. Therefore, US P2P loan-level data is used to demonstrate the modeling methodology."
