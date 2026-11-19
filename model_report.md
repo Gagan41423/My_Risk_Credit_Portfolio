@@ -117,8 +117,4 @@ Notebook: `03_scorecard.ipynb` | Data: `lc_clean_v2.parquet` | Outputs: `lc_scor
 - No recalibration for the 2015 default shift, and no recovery data, so loss estimates later will use an assumed LGD.
 - Results are descriptive and predictive, not causal.
 
-## 9. Next steps
 
-1. Choose a score cutoff and compare approval rate against default rate.
-2. Estimate expected loss (PD x LGD x exposure) by band, with a stated LGD assumption.
-3. Write the policy recommendation and add the results to the Power BI dashboard and README.
